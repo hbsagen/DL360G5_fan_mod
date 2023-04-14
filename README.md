@@ -41,7 +41,7 @@ K. If you have some shorter screws you can assemble with only the active fans:
 ![alt text](https://github.com/hbsagen/DL360G5_fan_mod/blob/main/images/IMG_6502.JPG?raw=true)  
   
 L. If you do, you need to remove the front lip, I used a knife (had the kids been awake I would have used a powertool):
-![alt text](https://github.com/hbsagen/DL360G5_fan_mod/blob/main/images/IMG_6494.JPG?raw=true)  
+![alt text](https://github.com/hbsagen/DL360G5_fan_mod/blob/main/images/IMG_6504.JPG?raw=true)  
   
 M. This is with lips removed:
 ![alt text](https://github.com/hbsagen/DL360G5_fan_mod/blob/main/images/IMG_6505.JPG?raw=true)  
