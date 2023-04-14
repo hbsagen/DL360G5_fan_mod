@@ -7,4 +7,4 @@ A quick tutorial on how to make your HD DL360G5 quieter. We will remove half the
 - Some new screws if you want to increse the flow  
 
 
-
+![alt text](https://github.com/hbsagen/DL360G5_fan_mod/blob/main/images/IMG_6491.JPG?raw=true)
